@@ -84,6 +84,9 @@ the-map-of-science/
     docker exec map-of-science-backend npm run seed:cn     # Chinese dataset
     docker exec map-of-science-backend npm run seed:expanded # Expanded dataset
     ```
+### How to try it
+*   **You can try it on**: [https://build-five-dun.vercel.app/map](https://build-five-dun.vercel.app/map)
+
 
 ### Local Development (Without Docker)
 

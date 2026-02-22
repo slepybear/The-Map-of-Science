@@ -52,3 +52,6 @@
 - Performance: <3s response time for full graph load.
 - Testing: Unit tests for algorithms, User testing with experts.
 - Data Verification: Continuous audit mechanism.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
